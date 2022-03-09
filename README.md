@@ -1,2 +1,3 @@
-# Javascript-Saat-ve-Kar-lama
+# Javascript Saat ve Karsilama
+
 Javascript Saat ve Karşılama Ödevi
